@@ -79,6 +79,7 @@ With continual refinement and computational support, PDFANSWERS could redefine t
 - FAISS
 - OpenAI / Llama API access (for embedding generation and LLM)
 - Py2PDF (or any PDF reader library)
+- To run this with Llama make sure Ollama is installed on your device with the model= "llama3.2" installed in it
 
 
 
