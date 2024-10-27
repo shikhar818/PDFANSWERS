@@ -64,7 +64,7 @@ This application is particularly relevant for fields requiring intensive documen
 
 With continual refinement and computational support, PDFANSWERS could redefine the standards of digital document analysis, fostering a more efficient and responsive approach to information management.
 
-## Improvements
+## Future Improvements
 <li>Add "Error Handling" or "Fallback Mechanism":(e.g., if FAISS retrieval or LLM API calls encounter errors).</li>
 <li>Consider Processing Details: If there are any preprocessing steps (like OCR for scanned PDFs), they could be briefly represented to show that all types of PDFs are handled.</li>
 
