@@ -31,7 +31,8 @@ The architecture comprises the following components:
 ## Workflow
 
 
-![workflow](https://github.com/user-attachments/assets/0f4d2162-1588-4774-8106-fc878b4e41ea)
+![workflow](https://github.com/user-attachments/assets/c94cb17a-cbff-4b09-bab2-1d3074c9ee13)
+
 
 1. **Input PDFs**: Multiple PDFs are loaded and split into document chunks.
 2. **Embedding Generation**: Each chunk is converted into embeddings.
@@ -44,11 +45,16 @@ The architecture comprises the following components:
 
 ## Output 
 1. Find exactly what is present in the document (only if prompt is according to the information present in the document structure)
+   
    ![1](https://github.com/user-attachments/assets/2368de4e-66a8-48f9-8a6f-5fbb18247baf)
    ![2](https://github.com/user-attachments/assets/4680a00a-f3bc-402c-b89b-f5ed616f97a5)
+   
 2. Search for additional information based on the knowledge of LLM and PDFs
+   
    ![3](https://github.com/user-attachments/assets/4671627f-5a8a-42af-8660-ac74ed77fccc)
+   
 3. Defines the process of flowcharts in a research paper(it's not accurate depicition but has some potential to make the user understand some of the concepts)
+   
    ![4](https://github.com/user-attachments/assets/53f15240-f80e-497b-9cca-fa12e1135f38)
 
 ## Result 
