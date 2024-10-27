@@ -53,7 +53,7 @@ The architecture comprises the following components:
    
    ![3](https://github.com/user-attachments/assets/4671627f-5a8a-42af-8660-ac74ed77fccc)
    
-3. Defines the process of flowcharts in a research paper(it's not accurate depicition but has some potential to make the user understand some of the concepts)
+3. Defines the process of flowcharts in a research paper(it's not accurate depiction but has some potential to make the user understand some of the concepts)
    
    ![4](https://github.com/user-attachments/assets/53f15240-f80e-497b-9cca-fa12e1135f38)
 
