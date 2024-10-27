@@ -31,7 +31,8 @@ The architecture comprises the following components:
 ## Workflow
 
 
-![workflow](https://github.com/user-attachments/assets/c94cb17a-cbff-4b09-bab2-1d3074c9ee13)
+![workflow](https://github.com/user-attachments/assets/fe30ada4-ffb0-4c09-af60-8f2676722a26)
+
 
 
 1. **Input PDFs**: Multiple PDFs are loaded and split into document chunks.
