@@ -44,16 +44,17 @@ The architecture comprises the following components:
 8. **Output**: The generated answer is displayed in the Streamlit interface.
 
 ## Output 
-1. Find exactly what is present in the document (only if prompt is according to the information present in the document structure)
+1. Finds exact information present in documents, delivering specific answers only if the prompt aligns with the document's structure, ensuring high accuracy for structured queries.
+
    
    ![1](https://github.com/user-attachments/assets/2368de4e-66a8-48f9-8a6f-5fbb18247baf)
    ![2](https://github.com/user-attachments/assets/4680a00a-f3bc-402c-b89b-f5ed616f97a5)
    
-2. Search for additional information based on the knowledge of LLM and PDFs
+2. Uses the knowledge base of the LLM and information in PDFs to search for supplementary information related to the query, offering enriched answers when relevant details aren't directly available in the document.
    
    ![3](https://github.com/user-attachments/assets/4671627f-5a8a-42af-8660-ac74ed77fccc)
    
-3. Defines the process of flowcharts in a research paper(it's not accurate depiction but has some potential to make the user understand some of the concepts)
+3. Defines the process of flowcharts in a research paper(it's not accurate depiction but has some potential to make the user understand some of the concepts present in the diagram)
    
    ![4](https://github.com/user-attachments/assets/53f15240-f80e-497b-9cca-fa12e1135f38)
 
